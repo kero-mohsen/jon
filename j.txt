@@ -1,0 +1,5 @@
+1-syntax errors
+
+2-logic or meaning errors
+
+3-runtime error (exceptions)
